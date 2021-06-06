@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwinTarus
-- 👀 I’m interested in python,Java and html.
+- 👀 I’m interested in python,Java and html for now.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
